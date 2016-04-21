@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDownLoadWork</string>
+    <string name="downloadURL">请输入下载地址</string>
+    <string name="download">下载</string>
+    <string name="downloadprogress">下载进度：</string>
+    <string name="zero">0</string>
+</resources>
